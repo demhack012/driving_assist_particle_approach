@@ -7,8 +7,8 @@ import math
 angle = 0
 location = 0
 obstacle = 0
-k_c_x = 0.6
-k_c_y = 0.4
+k_c_x = 0.4
+k_c_y = 0.6
 k_u = 0.3
 k_s_x = 0.3
 k_s_y = 0.4
